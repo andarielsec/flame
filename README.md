@@ -1,5 +1,5 @@
 # flame
-public decompilation and analysis of w32.flame/SkyWiper.A components
+public decompilation and analysis of w32.flame/SkyWiper.A components. Flame is a 3gen stuxnet variant that is most likely to be developed by international joint forces from USA and Israel.
 
 ## about
 
