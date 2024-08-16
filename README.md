@@ -4,3 +4,7 @@ public decompilation and analysis of w32.flame/SkyWiper.A components. Flame is a
 ## about
 
 722290 Lines of Code written in Turbo C and Visual C++. 
+
+## licensing
+
+reverse-engineering and decompilation done by timo sarkar <timo.sarkar@duck.com>
